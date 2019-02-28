@@ -1,0 +1,45 @@
+body, html {
+	max-width: 100%;
+	overflow-x: hidden;
+	font-family: helvetica;
+	background-color:#4c4533;
+	color:#4c4533;
+	padding:1em;
+	margin-left: auto;
+	margin-right: auto;
+	min-width:75%;
+}
+input[type=text] {
+
+	width:95%;
+	background-color:white;
+	color:#4c4533;
+	border-radius:30px;
+	padding-top:2em;
+	padding-left:2em;
+	padding-bottom:2em;
+	outline:none;
+	border:none;
+	box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1);
+}
+
+#listings {
+
+	width:95%;
+	background-color:white;
+	margin-top: 3%;
+	color:#4c4533;
+	border-radius: 30px;
+	padding-top:2em;
+	padding-left:2em;
+	padding-bottom:2em;
+	outline:none;
+	border:none;
+	box-shadow: 0 0 10px 2px rgba(0, 0, 0, .1);
+
+
+
+}
+
+p {
+}
