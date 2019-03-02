@@ -7,7 +7,7 @@ function getListings(){
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = "platform";
+	$dbname = "openlist";
 
 	try {
 		/*
