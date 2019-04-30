@@ -1,5 +1,6 @@
 # open-list
 An open source checklist based on javascript, php and pdo
+![What it looks like](/screen.png)
 ## Languages
 * A javascript frontend
 * PHP/MySQL backend
